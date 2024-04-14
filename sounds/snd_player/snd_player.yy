@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_player",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":3,
+  "conversionMode":0,
+  "duration":0.183039,
+  "name":"snd_player",
+  "parent":{
+    "name":"Dialogue System",
+    "path":"folders/Dialogue System.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_player.wav",
+  "type":0,
+  "volume":1.0,
+}
